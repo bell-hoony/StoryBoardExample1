@@ -1,0 +1,2 @@
+rootProject.name = "StoryBoardExample1"
+include ':app'
